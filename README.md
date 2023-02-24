@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OOlUKgwAAAAJ&hl=en)
 
 
-I'm a research scientist collaborating with NASA and Argonne/Idaho national lab, doing research on bayesian optimization and decision for in-space manufacturing and materials science. I am a member of MRS and AAAI. I lead engineering and AI teams from undergrads to PhDs. Raised 1.6M from NASA & Department of Energy. Conceptualize, author journals, whitepapers, govt grant proposals, cited in 100s.
+I'm a research scientist collaborating with NASA and Argonne/Idaho national lab, doing research on bayesian optimization and decision for in-space manufacturing and materials science. I am a member of MRS and AAAI. I lead engineering and AI teams from undergrads to PhDs. Raised 1.6M from NASA & Department of Energy. Conceptualize, author and review journals, whitepapers, govt grant proposals, cited in 100s.
 Here on GitHub you can find research projects as well as open source software developed in my spare time.
 
 Support my open source projects by donating: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://paypal.me/hudwahab?country.x=US&locale.x=en_US)](https://paypal.me/hudwahab?country.x=US&locale.x=en_US)
